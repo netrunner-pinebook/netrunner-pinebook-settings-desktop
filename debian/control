@@ -1,0 +1,14 @@
+Source: netrunner-settings-desktop
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: netrunner-settings-desktop
+Architecture: all
+Conflicts: kubuntu-settings-desktop
+Replaces: netrunner-artwork (<< 1.1.43), plasma-desktopthemes-artwork, netrunner-default-settings (<< 1.6.1)
+Breaks: netrunner-artwork (<< 1.1.43), plasma-desktopthemes-artwork, netrunner-default-settings (<< 1.6.1)
+Description: Desktop icons and folders in home
+  This package provides the default desktop icons & home folders of Netrunner.
