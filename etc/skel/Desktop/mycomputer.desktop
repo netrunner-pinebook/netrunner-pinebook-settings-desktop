@@ -2,7 +2,7 @@
 Type=Application
 Version=1.0
 Name=My Computer
-Exec=konqueror sysinfo://
+Exec=kcmshell5 about-extended
 Icon=computer
 Terminal=false
 Categories=KDE;Qt;System;
