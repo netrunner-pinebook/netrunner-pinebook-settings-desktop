@@ -1,0 +1,22 @@
+[Desktop Entry]
+Categories=KDE;Qt;System;
+Comment[en_US]=
+Comment=
+Exec=x11vnc -forever -loop -shared -find -avahi -unixpw -ssl -rfbport 6900
+GenericName[en_US]=
+GenericName=
+Icon=input-touchpad
+MimeType=
+Name[en_US]=Secure Remote
+Name=Secure Remote
+OnlyShowIn=KDE;
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-KDE-SubstituteUID=false
+X-KDE-Username=
