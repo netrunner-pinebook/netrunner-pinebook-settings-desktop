@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=
-Exec=firefox http://www.netrunner.com/readme-core-1710
+Exec=firefox http://www.netrunner.com/readme-1803
 Icon=help-about
 Name=Readme
 NoDisplay=false
